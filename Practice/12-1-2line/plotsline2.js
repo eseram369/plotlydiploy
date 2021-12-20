@@ -1,0 +1,1 @@
+Plotly.newPlot("plotline2", [{x: [2, 4, 6], y: [20, 40, 60]}]);
